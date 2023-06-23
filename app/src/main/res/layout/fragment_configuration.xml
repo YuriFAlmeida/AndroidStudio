@@ -54,7 +54,7 @@
         android:textSize="16sp"
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textValuePLA" />
+        app:layout_constraintTop_toBottomOf="@+id/textKwHoraFDM" />
 
     <TextView
         android:id="@+id/textValueMaintanceFDM"
@@ -66,7 +66,7 @@
         android:textSize="16sp"
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textValueResina" />
+        app:layout_constraintTop_toBottomOf="@+id/textValuePLA" />
 
     <TextView
         android:id="@+id/textKwHoraFDM"
@@ -90,7 +90,7 @@
         android:textSize="16sp"
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textKwHoraFDM" />
+        app:layout_constraintTop_toBottomOf="@+id/textValueResina" />
 
     <TextView
         android:id="@+id/textKwHoraResina"
